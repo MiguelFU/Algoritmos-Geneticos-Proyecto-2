@@ -6,13 +6,19 @@ Unidad de Aprendizaje: Algoritmos genéticos
 
 Tema:Proyecto 2 Algoritmos Geneticos 
 
-Alumnos:Miguel Angel Flores Urbina
+Author: Miguel Angel Flores Urbina
         Luis Angel Dias Navas
         Leonardo Villanueva Medina
+        
+Profesor: Dr. Asdrúbal López Chau
 
 Descripción:  Algoritmo genético Proyecto 2
 
 Created on Mon May  20 12:48:33 2022
+
+Enlace del video: https://www.youtube.com/watch?v=C9F6cKH1KGQ
+
+Enlace de GitGub: https://github.com/MiguelFU/Algoritmos-Geneticos-Proyecto-2?fbclid=IwAR0aGxPM3mDM3gG9TPONVleBuLGNvjqgHC7O-kxEWMUQ0bRCsZLIOxbN6g8
 
 @author: angel
 """
