@@ -16,6 +16,11 @@ Descripción:  Script de pruebas
 
 Created on May  22 13:33:22 2022
 
+Enlace del video: https://www.youtube.com/watch?v=C9F6cKH1KGQ
+
+Enlace de GitGub: https://github.com/MiguelFU/Algoritmos-Geneticos-Proyecto-2?fbclid=IwAR0aGxPM3mDM3gG9TPONVleBuLGNvjqgHC7O-kxEWMUQ0bRCsZLIOxbN6g8
+
+
 @author: angel
 """
 import numpy as np
@@ -28,7 +33,7 @@ import fn
 
 
 
-vol = int(input("Ingresa el punto inicial de busqueda: "))
+vol = float(input("Ingresa el punto inicial de busqueda: "))
 print()
 it=int(input('De el numero de iteraciones: '))
 print()
