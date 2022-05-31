@@ -9,10 +9,18 @@ Tema:Proyecto 2 Algoritmos Geneticos
 Author: Miguel Angel Flores Urbina
         Luis Angel Dias Navas
         Leonardo Villanueva Medina
+        
+Profesor: Dr. Asdrúbal López Chau
+
 Descripción:  Población de individuos
 
 
 Created on Mon May  25 11:31:12 2022
+
+Enlace del video: https://www.youtube.com/watch?v=C9F6cKH1KGQ
+
+Enlace de GitGub: https://github.com/MiguelFU/Algoritmos-Geneticos-Proyecto-2?fbclid=IwAR0aGxPM3mDM3gG9TPONVleBuLGNvjqgHC7O-kxEWMUQ0bRCsZLIOxbN6g8
+
 
 @author: angel
 """
